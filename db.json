@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn VueJs fondamentals",
+      "day": "February 22 at 12:08PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "PFA Presentation",
+      "day": "February 26 at 9:00AM",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "PFE Bibliography",
+      "day": "February 28 at 9:00AM",
+      "reminder": true
+    }
+  ]
+}
